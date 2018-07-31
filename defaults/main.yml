@@ -1,0 +1,3 @@
+---
+# defaults file for testinfra_bug_variables
+example_var: "Hello world"

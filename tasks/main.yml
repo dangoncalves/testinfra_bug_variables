@@ -1,0 +1,5 @@
+---
+# tasks file for testinfra_bug_variables
+- name: Just print a debug message
+  debug:
+    msg: "The value of the variable 'example_var' is '{{ example_var }}'"
